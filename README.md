@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Pinheiro</h1>
+<h1 align="center">Hi there, I'm Lucas Pinheiro</h1>
 <h3 align="center">A Web Dev Student</h3>
 
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT.js, NODE.js and NEXT.js
