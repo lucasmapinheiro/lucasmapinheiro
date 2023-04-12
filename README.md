@@ -6,7 +6,7 @@
 - 
 - 💬 Ask me something
 - 
-- 📫 How to reach me: @lucasmapinheiro
+- 📫 How to reach me: [@lucasmapinheiro](https://www.linkedin.com/in/lucasmaranhaopinheiro/)
 - 
 - ⚡ Fun fact: In 2007 i was a business student. In 2014 i was a lawyer. In the beginning of 2021 i was an architect. Now i'm an OutSystems developer, trying to learn more and more things.
 
