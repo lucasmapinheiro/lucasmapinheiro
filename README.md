@@ -8,7 +8,7 @@
 - 
 - 📫 How to reach me: @lucasmapinheiro
 - 
-- ⚡ Fun fact: In 2007 i was a business student. In 2014 i was a lawyer. In the beginning of 2021 i was an architect. Now i'm a web development student.
+- ⚡ Fun fact: In 2007 i was a business student. In 2014 i was a lawyer. In the beginning of 2021 i was an architect. Now i'm an OutSystems developer, trying to learn more and more things.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
