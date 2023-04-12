@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi there, I'm Lucas Pinheiro</h1>
-<h3 align="center">A Web Dev Student</h3>
+<h3 align="center">An OutSystems Dev</h3>
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT.js, NODE.js and NEXT.js
+- 🌱 I’m currently learning more and more about HTML, CSS, JAVASCRIPT, REACT.js, NODE.js and NEXT.js
 - 
 - 💬 Ask me something
 - 
